@@ -24,7 +24,7 @@ url: "http://blog.clojurewerkz.org"
 twitter_username: clojurewerkz
 github_username: clojurewerkz
 
-google_analytics_tracking_id: UA-31282324-9
+google_analytics_tracking_id: "UA-31282324-9"
 
 # Build settings
 markdown: kramdown
